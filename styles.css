@@ -17,7 +17,7 @@ border-radius: 25%;
 
 }
 
-.project img {
+.project IMG {
 width: 30px;
 height: 10px;
 margin: 10px;
@@ -34,5 +34,6 @@ color: purple;
 text-align: center;
 margin: 15px;
 }
+
 
 
