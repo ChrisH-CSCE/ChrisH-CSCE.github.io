@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+  </head>
+<body>
+  <table>
+    <!-- Header Section -->
+    <tr>
+      <td colspan="2">
+        <h1>Christopher Hunt</h1>
+        <p>Email: cwhunt@email.sc.edi | Phone: (xxx)-xxx-xxxx | Location: South Caorlina, SC</p>
+        <hr>
+      </td>
+    </tr>
+
+    <!-- Education Section -->
+    <tr>
+      <td width="25%"><h2>Education</h2></td>
+      <td>
+        <strong>University of South Carolina - Columbia</strong><br>
+        B.S. in Computer Engineering, <br>
+        GPA: 3.4
+      </td>
+    </tr>
+
+    <!-- School Experience Section -->
+    <tr>
+      <td><h2>School Experience</h2></td>
+      <td>
+        <strong> CSCE 145 </strong>, Algorithmic Design 1 (2025–Present)<br>
+        <ul>
+          <li>Created 7 labs using Java code in Eclipse for multiple purposes ranging from a code that could give you your zodiac sign just from your birth month and date to code involving 4 different classes to create a bicycle and give the dimensions. </li>
+          <li>Analyzed all I was taught so I could become more proficient in Java.</li>
+        </ul>
+
+        <strong> CSCE 190</strong>, Computing in the modern world (2025–Present)<br>
+        <ul>
+          <li>Developed code on github that displayed my mission statement..</li>
+          <li>Assessed a problem on campus for a project and am currently working out how to remove that problem to make campus better.</li>
+        </ul>
+      </td>
+    </tr>
+
+    <!-- Skills Section -->
+    <tr>
+      <td><h2>Skills</h2></td>
+      <td>
+        <ul>
+          <li>Programming: Java, Html, C++</li>
+          <li>Networking: Adaptibility, Effective Communication, Active Listening</li>
+          <li>Languges: Some Spanish, Plan to learn french</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
